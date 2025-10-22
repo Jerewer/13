@@ -27,7 +27,7 @@ Ideal para proyectos CRUD, prácticas universitarias o aprendizaje de bases de d
 ├── README.md                # Documento descriptivo (este archivo)
 └── registro_empleados.sql   # Script SQL para crear la base de datos
 
-````
+```
 
 ---
 
@@ -38,11 +38,9 @@ Antes de ejecutar el programa, asegúrate de tener instalado lo siguiente:
 - 🐍 **Python 3.10 o superior**
 - 🗄️ **MySQL Server** (con acceso local)
 - 📦 Librería necesaria:
-  ```bash
+```bash
   pip install mysql-connector-python
-````
-
----
+```
 
 ## 🧱 Configuración de la Base de Datos
 
