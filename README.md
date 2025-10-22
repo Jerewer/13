@@ -15,7 +15,7 @@ Ideal para proyectos CRUD, prácticas universitarias o aprendizaje de bases de d
 - 🧮 **Estadísticas detalladas** del sistema
 - ⚙️ **Validaciones y manejo de errores**
 - 🎨 **Interfaz moderna con Tkinter y ttk**
-
+![ imagen](interfaz.jpeg)
 ---
 
 ## 🗂️ Estructura del Proyecto
